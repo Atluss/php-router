@@ -1,0 +1,15 @@
+* {
+	outline: none !important;
+}
+
+html, body {
+	padding: 0px;
+	margin: 0px;
+	font-family: "Open Sans";
+}
+
+body.bodyLock {
+	overflow: hidden !important;
+	height: 100% !important;
+	width: 100% !important;
+}
